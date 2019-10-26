@@ -1,0 +1,500 @@
+  215  sudo spyder
+  216  sudo spyder
+  217  sudo spyder
+  218  conda info --envs
+  219  conda list
+  220  conda list > list.txt
+  221  open list.txt
+  222  cd /anaconda3
+  223  ls
+  224  cd envs
+  225  ls
+  226  conda install imexam -c http://ssb.stsci.edu/astroconda
+  227  which ds9
+  228  which ds9 :
+  229  where ds9
+  230  pwd
+  231  cd Applications/
+  232  ls
+  233  cd /Applications
+  234  ls
+  235  pwd
+  236  cd ..
+  237  cd ~
+  238  ls
+  239  pwd
+  240  cd Desktop/xpa-master/
+  241  ./configure --prefix=.
+  242  ./configure --prefix=/Users/chet/Desktop/xpa-master/
+  243  make
+  244  make install
+  245  cd /usr/local/anaconda
+  246  cd /usr/local/anaconda2
+  247  ls
+  248  conda create -n python3.6 python=3.6 anaconda
+  249  conda update python
+  250  conda update python
+  251  conda install tensorflow
+  252  source activate
+  253  conda install -c astropy photutils
+  254  sudo spyder
+  255  sudo spyder
+  256  ds9 & -title nine &
+  257  open -a DS9
+  258  open -a ds9
+  259  sudo spyder
+  260  echo $PATH
+  261  sudo nano etc/paths
+  262  echo $PATH
+  263  where $PATH
+  264  export PATH=$PATH:/Applications/SAOImage\ DS9.app/Contents/MacOS/ds9
+  265  echo $PATH
+  266  sudo spyder
+  267  clear
+  268  echo $PATH
+  269  export PATH=$PATH:/Users/chet/xpa-master/
+  270  echo $PATH
+  271  ds9 %
+  272  sudo spyder
+  273  sudo spyder
+  274  export PATH=$PATH:/Users/chet/xpa-master/
+  275  echo $PATH
+  276  echo $PATH
+  277  pip install git+https://github.com/NASA-Planetary-Science/sbpy.git
+  278  sudo spyder
+  279  sudo spyder
+  280  pwd
+  281  cd Desktop/Giant_Python/
+  282  cp ./*gt2* .
+  283  cp /*gt* .
+  284  ls
+  285  cp ./GIANT_allqualitycodes/*gt* .
+  286  pwd
+  287  cd ..
+  288  cd trackedparticlephasefunctions/TargetAsteroids1/
+  289  rm -f *.png
+  290  pwd
+  291  cd Desktop/navcams2019
+  292  ls
+  293  pwd
+  294  pwd
+  295  mkdir copys
+  296  cp *V003.fits copys
+  297  cd copys
+  298  replace *V00*.fits .fits
+  299  rename *.fits _V*.fits .fits
+  300  rename _V*.fits .fits *.fits
+  301  pwd
+  302  cd Desktop
+  303  cd orex_psfphot/
+  304  ls
+  305  mkdir testloop
+  306  cp gausspsf_loop.py testloop
+  307  cp 20190130* testloop
+  308  cd testloop
+  309  ls
+  310  rm -f *.png -f *ncm*
+  311  ls
+  312  pwd
+  313  cd ..
+  314  cp 20190130* testloop
+  315  pwd
+  316  cd test
+  317  cd testloop/
+  318  pwd
+  319  rm -f *.fits
+  320  rm -f *.csv
+  321  ls
+  322  pwd
+  323  cd ..
+  324  cp 20190130* testloop
+  325  pwd
+  326  mkdir effectiveloop
+  327  cp 20190130* effectiveloop
+  328  cp testloop/*.py effectiveloop
+  329  pwd
+  330  cd ..
+  331  cd test_psfphot/
+  332  rm -f *.fits
+  333  pwd
+  334  cd Desktop/orex_psfphot/
+  335  ls
+  336  rm -f *.fits
+  337  rm -f *coord.csv
+  338  ls
+  339  pwd
+  340  cd Desktop/tracklet_psfphot/
+  341  ls
+  342  rm -f *.fits
+  343  ls
+  344  pwd
+  345  cd ..
+  346  cd iraf
+  347  source activate iraf27
+  348  pwd
+  349  cl
+  350  ecl
+  351  conda info --envs
+  352  source activate iraf27
+  353  source
+  354  source activate iraf27
+  355  cd Desktop/iraf
+  356  cl
+  357  login.cl
+  358  source activate iraf27
+  359  pwd
+  360  cd Desktop
+  361  ls
+  362  cd tracklet_psfphot
+  363  pwd
+  364  ls
+  365  rm -f *residual*.png
+  366  ls
+  367  sudo spyder
+  368  sudo spyder
+  369  sudo spyder
+  370  sudo spyder
+  371  sudo spyder
+  372  sude spyder
+  373  sudo spyder
+  374  sudo spyder
+  375  sudo spyder
+  376  pwd
+  377  cd Desktop/PartPhases2019Sep16/
+  378  mkdir bysat
+  379  cp satnu* bysat
+  380  ls bysat
+  381  ls
+  382  pwd
+  383  rm -f satnu*
+  384  pwd
+  385  cd Desktop/PartPhases2019Sep16/
+  386  ls *.csv
+  387  mv satnumber*.csv bysat
+  388  mkdir plots
+  389  cd plots
+  390  ls
+  391  rm -f *.png
+  392  pwd Desktop/PartPhases2019Sep16/
+  393  ls Desktop/PartPhases2019Sep16/
+  394  mv sat*.csv bysat
+  395  mv sat*.csv ./bysat
+  396  ls
+  397  cd Desktop
+  398  cd PartPhases2019Sep16/
+  399  ls
+  400  mv sat*.csv bysat
+  401  ls
+  402  pwd
+  403  cd bysat
+  404  ls
+  405  ls .D*
+  406  rm -f .D*
+  407  rm -f .D*
+  408  rm -f .D*
+  409  rm -f .D*
+  410  rm -f .D*
+  411  rm -f .D*
+  412  rm -f *
+  413  pwd
+  414  mv ../sat*.csv .
+  415  ls
+  416  pwd
+  417  cd /Users/chet/Desktop/undist
+  418  ls
+  419  scp -r 2019Sep11 observer@catpart.lpl.arizona.edu:/data/orex
+  420  scp -r 2019Sep12 observer@catpart.lpl.arizona.edu:/data/orex
+  421  scp -r 2019Sep13 observer@catpart.lpl.arizona.edu:/data/orex
+  422  scp -r 2019Sep14 observer@catpart.lpl.arizona.edu:/data/orex
+  423  scp -r 2019Sep15 observer@catpart.lpl.arizona.edu:/data/orex
+  424  scp -r 20190916 observer@catpart.lpl.arizona.edu:/data/orex
+  425  scp -r 20190916 observer@catpart.lpl.arizona.edu:/data/orex
+  426  scp -r 20190917 observer@catpart.lpl.arizona.edu:/data/orex
+  427  scp -r 2019Sep12 observer@catpart.lpl.arizona.edu:/data/orex
+  428  scp -r 2019Sep11 observer@catpart.lpl.arizona.edu:/data/orex
+  429  scp -r 2019Sep14 observer@catpart.lpl.arizona.edu:/data/orex
+  430  scp -r 2019Sep14 observer@catpart.lpl.arizona.edu:/data/orex
+  431  scp -r 2019Sep16 observer@catpart.lpl.arizona.edu:/data/orex
+  432  sudo spyder
+  433  pwd
+  434  cd Desktop/PartPhaseOct11/
+  435  mv satnum*.csv bysat
+  436  cd Desktop/PartPhasO
+  437  cd Desktop/PartPhaseOct11/
+  438  mv satnum*.csv bysat
+  439  cd Desktop/PartPhaseOct11/
+  440  ls
+  441  mv satnum* bysat
+  442  cd Desktop/PartPhaseOct11/bysat
+  443  ls
+  444  rm -f *Store*
+  445  ls *Sto*
+  446  ls
+  447  ls
+  448  pwd
+  449  cd Desktop/undist
+  450  ls
+  451  scp -r 2019Feb18 observer@catpart.lpl.arizona.edu:/data/orexa
+  452  scp -r 2019Feb18 observer@catpart.lpl.arizona.edu:/data/orexa
+  453  scp -r 2019Feb17 observer@catpart.lpl.arizona.edu:/data/orexa
+  454  scp -r 2019Feb16 observer@catpart.lpl.arizona.edu:/data/orexa
+  455  scp -r 2019Feb15 observer@catpart.lpl.arizona.edu:/data/orexa
+  456  scp -r 2019Feb14 observer@catpart.lpl.arizona.edu:/data/orexa
+  457  scp -r 2019Feb13 observer@catpart.lpl.arizona.edu:/data/orexa
+  458  scp -r 2019Feb14 observer@catpart.lpl.arizona.edu:/data/orexa
+  459  scp -r 2019Feb12 observer@catpart.lpl.arizona.edu:/data/orexa
+  460  scp -r 2019Feb12 observer@catpart.lpl.arizona.edu:/data/orexa
+  461  scp -r 2019Feb11 observer@catpart.lpl.arizona.edu:/data/orexa
+  462  scp -r 2019Feb10 observer@catpart.lpl.arizona.edu:/data/orexa
+  463  scp -r 2019Feb09 observer@catpart.lpl.arizona.edu:/data/orexa
+  464  scp -r 2019Feb08 observer@catpart.lpl.arizona.edu:/data/orexa
+  465  scp -r 2019Feb07 observer@catpart.lpl.arizona.edu:/data/orexa
+  466  scp -r 2019Feb06 observer@catpart.lpl.arizona.edu:/data/orexa
+  467  scp -r 2019Feb05 observer@catpart.lpl.arizona.edu:/data/orexa
+  468  scp -r 2019Feb04 observer@catpart.lpl.arizona.edu:/data/orexa
+  469  scp -r 2019Feb03 observer@catpart.lpl.arizona.edu:/data/orexa
+  470  scp -r 2019Feb02 observer@catpart.lpl.arizona.edu:/data/orexa
+  471  scp -r 2019Feb01 observer@catpart.lpl.arizona.edu:/data/orexa
+  472  scp -r 2019Jan31 observer@catpart.lpl.arizona.edu:/data/orexa
+  473  scp -r 2019Jan30 observer@catpart.lpl.arizona.edu:/data/orexa
+  474  scp -r 2019Jan29 observer@catpart.lpl.arizona.edu:/data/orexa
+  475  sudo spyder
+  476  cd Desktop/undist
+  477  ls
+  478  cd ..
+  479  cd undistorted_jan/
+  480  ls
+  481  scp -r 2019Jan29 observer@catpart.lpl.arizona.edu:/data/orexa
+  482  scp -r 2019Jan29 observer@catpart.lpl.arizona.edu:/data/orexa
+  483  scp -r 2019Jan28 observer@catpart.lpl.arizona.edu:/data/orexa
+  484  scp -r 2019Jan28b observer@catpart.lpl.arizona.edu:/data/orexa
+  485  scp -r 2019Jan28b observer@catpart.lpl.arizona.edu:/data/orexa
+  486  sudo scp -r 2019Jan28b observer@catpart.lpl.arizona.edu:/data/orexa
+  487  sudo scp -r 2019Jan28b observer@catpart.lpl.arizona.edu:/data/orexa
+  488  sudo scp -r 2019Jan27b observer@catpart.lpl.arizona.edu:/data/orexa
+  489  sudo scp -r 2019Jan26b observer@catpart.lpl.arizona.edu:/data/orexa
+  490  sudo scp -r 2019Jan28b observer@catpart.lpl.arizona.edu:/data/orexa
+  491  sudo scp -r 2019Jan27b observer@catpart.lpl.arizona.edu:/data/orexa
+  492  sudo scp -r 2019Jan26b observer@catpart.lpl.arizona.edu:/data/orexa
+  493  sudo scp -r 2019Jan25b observer@catpart.lpl.arizona.edu:/data/orexa
+  494  sudo scp -r 2019Jan24b observer@catpart.lpl.arizona.edu:/data/orexa
+  495  sudo scp -r 2019Jan06b observer@catpart.lpl.arizona.edu:/data/orexa
+  496  sudo spyder
+  497  git --version
+  498  nano --version
+  499  nano
+  500  pwd
+  501  git --version
+  502  nano --version
+  503  nano &
+  504  nano
+  505  clear
+  506  pwd
+  507  cd ~/Desktop/workshop/unix_intro
+  508  pwd
+  509  ls
+  510  date
+  511  date -u
+  512  date-u
+  513  head
+  514  clear
+  515  head example.txt
+  516  head -n 5 example.txt 
+  517  head --help
+  518  head -c 128 example.txt 
+  519  head -c 64 example.txt 
+  520  man head
+  521  head --help
+  522  man head
+  523  clear
+  524  head --version
+  525  clear
+  526  pwd ~
+  527  cd ~
+  528  pwd
+  529  cd Desktop/workshop/unix_intro/
+  530  pwd /
+  531  ls /
+  532  cd Users/chet
+  533  ls
+  534  pwd
+  535  clear
+  536  head notes.txt
+  537  pwd
+  538  ls
+  539  clear
+  540  head experiment/notes.txt
+  541  ls experiment/
+  542  cd ..
+  543  cd unix_intro
+  544  clear
+  545  ls
+  546  pwd
+  547  clear
+  548  pwd
+  549  cd experiment
+  550  ls
+  551  cd ..
+  552  pwd
+  553  pwd .
+  554  ls .
+  555  ls ..
+  556  ls ...
+  557  clear
+  558  pwd
+  559  tail example.txt 
+  560  less example.txt
+  561  clear
+  562  wc example.txt
+  563  man wc
+  564  wc -l example.txt 
+  565  cp example.txt example_copy.txt
+  566  ls data
+  567  cp example.txt data/example_copy.txt
+  568  ls data
+  569  ls
+  570  cp experiment/notes.txt .
+  571  pwd
+  572  cp experiment/notes.txt ..
+  573  ls
+  574  cd ..
+  575  ls
+  576  rm notes.txt
+  577  cd unix_intro/
+  578  ls
+  579  ls experiment/
+  580  mv example_copy.txt experiment/
+  581  ls
+  582  ls experiment
+  583  pwd
+  584  clear
+  585  ls
+  586  mv notes.txt notes_old.txt
+  587  ls
+  588  nano
+  589  nano sample_names.txt
+  590  head sample_names.txt 
+  591  pwd
+  592  clear
+  593  ls
+  594  wc -l example.txt
+  595  ls
+  596  ls | wc -l
+  597  ls data/all_samples/
+  598  clear
+  599  ls data/all_samples/ | wc -l
+  600  pwd
+  601  nano data/all_samples/sample_99.txt
+  602  head data/all_samples/sample_99.txt
+  603  head data/all_samples/sample_97.txt
+  604  head data/all_samples/sample_97.tsv
+  605  clear
+  606  ls
+  607  pwd
+  608  clear
+  609  ls
+  610  rm notes_old.txt 
+  611  ls
+  612  ls > directory_comments.txt
+  613  head directory_comments.txt 
+  614  clear
+  615  ls experiment/ > directory_comments.txt 
+  616  ls
+  617  head directory_comments.txt 
+  618  clear
+  619  ls
+  620  mv directory_comments.txt directory_contents.txt 
+  621  pwd
+  622  ls >> directory_contents.txt 
+  623  less directory_contents.txt 
+  624  cd data/all_samples/
+  625  ls *.txt
+  626  clear
+  627  ls *.txt
+  628  ls *.t*
+  629  clear
+  630  ls *.txt | wc -l
+  631  ls *.t* | wc -l
+  632  mkdir fastq_files
+  633  ls fastq_files/
+  634  ls *.fq
+  635  mv *.fq fastq_files/
+  636  ls fastq_files/
+  637  ls | wc -l
+  638  history | tail
+  639  ls -r
+  640  mkdir txt_files
+  641  mv *.txt txt_files/
+  642  mkdir tsv_files
+  643  ls *.tsv
+  644  mv *.tsv tsv_files/
+  645  ls
+  646  clear
+  647  history less
+  648  less history
+  649  history | less
+  650  clear
+  651  history 2 | tail
+  652  clear
+  653  history clear | head
+  654  clear
+  655  cd fastq_files/
+  656  ls sample_1*.fq
+  657  ls sample_1?.fq
+  658  clear
+  659  pwd
+  660  cd ..
+  661  cd ..
+  662  cd ..
+  663  cd ..
+  664  ls
+  665  cd unix_
+  666  cd unix_intro/
+  667  ls
+  668  pwd
+  669  clear
+  670  cd six_commands/
+  671  head gene_annotations.tsv
+  672  head -n 1gene_annotations.tsv
+  673  head -n 1 gene_annotations.tsv
+  674  wc -l gene_annotations.tsv
+  675  man cut
+  676  cut -f 1 gene_annotations.tsv | head
+  677  cut -f 1,3 gene_annotations.tsv | head
+  678  cut -f 1-3 gene_annotations.tsv | head
+  679  cut -f 1-5 gene_annotations.tsv | head
+  680  cut -f 1-3 gene_annotations.tsv | head
+  681  clear
+  682  cut -f 1-3 gene_annotations.tsv | head
+  683  cut -f 1-3 example_gene_annotations.csv | head
+  684  cut -d , -f 1-3 example_gene_annotations.csv | head
+  685  cut -f 1,4 gene_annotations.tsv > IDs_and_annotations.tsv
+  686  wc -l IDs_and_annotations.tsv 
+  687  head colors.txt
+  688  grep blue colors.txt
+  689  grep re colors.txt
+  690  grep K09765 gene_annotations.tsv
+  691  grep K18979 gene_annotations.tsv
+  692  grep K18979 gene_annotations.tsv | cut -f 2
+  693  paste colors.txt colores.txt
+  694  head genes_seqs.tsv
+  695  head genes_and_seqs.tsv
+  696  clear
+  697  less -S genes_and_seqs.tsv
+  698  paste gene_annotations.tsv genes_and_seqs.tsv | cut -f 1-4,6- | head -n 2
+  699  paste gene_annotations.tsv genes_and_seqs.tsv | cut -f 1-4,6- | head -n 2
+  700  clear
+  701  my_var=ANGUS
+  702  echo $my_var
+  703  my_new_var="Tucson, Arizona, USA"
+  704  cd ~/Desktop/workshop/unix_intro/
+  705  mkdir for_loops
+  706  cd for_loops
+  707  pwd
+  708  cd ..
+  709  echo $my_var
+  710  for word in earth mars venus; do echo $word; done
+  711  for word in earth mars venus; do echo $word; echo $word >> planets.txt; done
+  712  head planets.txt 
+  713  cat planets.txt
+  714  history > history.txt
