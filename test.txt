@@ -1,0 +1,500 @@
+   26  mv sat*.csv bysat
+   27  mv sat*.csv ./bysat
+   28  ls
+   29  cd Desktop
+   30  cd PartPhases2019Sep16/
+   31  ls
+   32  mv sat*.csv bysat
+   33  ls
+   34  pwd
+   35  cd bysat
+   36  ls
+   37  ls .D*
+   38  rm -f .D*
+   39  rm -f .D*
+   40  rm -f .D*
+   41  rm -f .D*
+   42  rm -f .D*
+   43  rm -f .D*
+   44  rm -f *
+   45  pwd
+   46  mv ../sat*.csv .
+   47  ls
+   48  pwd
+   49  cd /Users/chet/Desktop/undist
+   50  ls
+   51  scp -r 2019Sep11 observer@catpart.lpl.arizona.edu:/data/orex
+   52  scp -r 2019Sep12 observer@catpart.lpl.arizona.edu:/data/orex
+   53  scp -r 2019Sep13 observer@catpart.lpl.arizona.edu:/data/orex
+   54  scp -r 2019Sep14 observer@catpart.lpl.arizona.edu:/data/orex
+   55  scp -r 2019Sep15 observer@catpart.lpl.arizona.edu:/data/orex
+   56  scp -r 20190916 observer@catpart.lpl.arizona.edu:/data/orex
+   57  scp -r 20190916 observer@catpart.lpl.arizona.edu:/data/orex
+   58  scp -r 20190917 observer@catpart.lpl.arizona.edu:/data/orex
+   59  scp -r 2019Sep12 observer@catpart.lpl.arizona.edu:/data/orex
+   60  scp -r 2019Sep11 observer@catpart.lpl.arizona.edu:/data/orex
+   61  scp -r 2019Sep14 observer@catpart.lpl.arizona.edu:/data/orex
+   62  scp -r 2019Sep14 observer@catpart.lpl.arizona.edu:/data/orex
+   63  scp -r 2019Sep16 observer@catpart.lpl.arizona.edu:/data/orex
+   64  sudo spyder
+   65  pwd
+   66  cd Desktop/PartPhaseOct11/
+   67  mv satnum*.csv bysat
+   68  cd Desktop/PartPhasO
+   69  cd Desktop/PartPhaseOct11/
+   70  mv satnum*.csv bysat
+   71  cd Desktop/PartPhaseOct11/
+   72  ls
+   73  mv satnum* bysat
+   74  cd Desktop/PartPhaseOct11/bysat
+   75  ls
+   76  rm -f *Store*
+   77  ls *Sto*
+   78  ls
+   79  ls
+   80  pwd
+   81  cd Desktop/undist
+   82  ls
+   83  scp -r 2019Feb18 observer@catpart.lpl.arizona.edu:/data/orexa
+   84  scp -r 2019Feb18 observer@catpart.lpl.arizona.edu:/data/orexa
+   85  scp -r 2019Feb17 observer@catpart.lpl.arizona.edu:/data/orexa
+   86  scp -r 2019Feb16 observer@catpart.lpl.arizona.edu:/data/orexa
+   87  scp -r 2019Feb15 observer@catpart.lpl.arizona.edu:/data/orexa
+   88  scp -r 2019Feb14 observer@catpart.lpl.arizona.edu:/data/orexa
+   89  scp -r 2019Feb13 observer@catpart.lpl.arizona.edu:/data/orexa
+   90  scp -r 2019Feb14 observer@catpart.lpl.arizona.edu:/data/orexa
+   91  scp -r 2019Feb12 observer@catpart.lpl.arizona.edu:/data/orexa
+   92  scp -r 2019Feb12 observer@catpart.lpl.arizona.edu:/data/orexa
+   93  scp -r 2019Feb11 observer@catpart.lpl.arizona.edu:/data/orexa
+   94  scp -r 2019Feb10 observer@catpart.lpl.arizona.edu:/data/orexa
+   95  scp -r 2019Feb09 observer@catpart.lpl.arizona.edu:/data/orexa
+   96  scp -r 2019Feb08 observer@catpart.lpl.arizona.edu:/data/orexa
+   97  scp -r 2019Feb07 observer@catpart.lpl.arizona.edu:/data/orexa
+   98  scp -r 2019Feb06 observer@catpart.lpl.arizona.edu:/data/orexa
+   99  scp -r 2019Feb05 observer@catpart.lpl.arizona.edu:/data/orexa
+  100  scp -r 2019Feb04 observer@catpart.lpl.arizona.edu:/data/orexa
+  101  scp -r 2019Feb03 observer@catpart.lpl.arizona.edu:/data/orexa
+  102  scp -r 2019Feb02 observer@catpart.lpl.arizona.edu:/data/orexa
+  103  scp -r 2019Feb01 observer@catpart.lpl.arizona.edu:/data/orexa
+  104  scp -r 2019Jan31 observer@catpart.lpl.arizona.edu:/data/orexa
+  105  scp -r 2019Jan30 observer@catpart.lpl.arizona.edu:/data/orexa
+  106  scp -r 2019Jan29 observer@catpart.lpl.arizona.edu:/data/orexa
+  107  sudo spyder
+  108  cd Desktop/undist
+  109  ls
+  110  cd ..
+  111  cd undistorted_jan/
+  112  ls
+  113  scp -r 2019Jan29 observer@catpart.lpl.arizona.edu:/data/orexa
+  114  scp -r 2019Jan29 observer@catpart.lpl.arizona.edu:/data/orexa
+  115  scp -r 2019Jan28 observer@catpart.lpl.arizona.edu:/data/orexa
+  116  scp -r 2019Jan28b observer@catpart.lpl.arizona.edu:/data/orexa
+  117  scp -r 2019Jan28b observer@catpart.lpl.arizona.edu:/data/orexa
+  118  sudo scp -r 2019Jan28b observer@catpart.lpl.arizona.edu:/data/orexa
+  119  sudo scp -r 2019Jan28b observer@catpart.lpl.arizona.edu:/data/orexa
+  120  sudo scp -r 2019Jan27b observer@catpart.lpl.arizona.edu:/data/orexa
+  121  sudo scp -r 2019Jan26b observer@catpart.lpl.arizona.edu:/data/orexa
+  122  sudo scp -r 2019Jan28b observer@catpart.lpl.arizona.edu:/data/orexa
+  123  sudo scp -r 2019Jan27b observer@catpart.lpl.arizona.edu:/data/orexa
+  124  sudo scp -r 2019Jan26b observer@catpart.lpl.arizona.edu:/data/orexa
+  125  sudo scp -r 2019Jan25b observer@catpart.lpl.arizona.edu:/data/orexa
+  126  sudo scp -r 2019Jan24b observer@catpart.lpl.arizona.edu:/data/orexa
+  127  sudo scp -r 2019Jan06b observer@catpart.lpl.arizona.edu:/data/orexa
+  128  sudo spyder
+  129  git --version
+  130  nano --version
+  131  nano
+  132  pwd
+  133  git --version
+  134  nano --version
+  135  nano &
+  136  nano
+  137  clear
+  138  pwd
+  139  cd ~/Desktop/workshop/unix_intro
+  140  pwd
+  141  ls
+  142  date
+  143  date -u
+  144  date-u
+  145  head
+  146  clear
+  147  head example.txt
+  148  head -n 5 example.txt 
+  149  head --help
+  150  head -c 128 example.txt 
+  151  head -c 64 example.txt 
+  152  man head
+  153  head --help
+  154  man head
+  155  clear
+  156  head --version
+  157  clear
+  158  pwd ~
+  159  cd ~
+  160  pwd
+  161  cd Desktop/workshop/unix_intro/
+  162  pwd /
+  163  ls /
+  164  cd Users/chet
+  165  ls
+  166  pwd
+  167  clear
+  168  head notes.txt
+  169  pwd
+  170  ls
+  171  clear
+  172  head experiment/notes.txt
+  173  ls experiment/
+  174  cd ..
+  175  cd unix_intro
+  176  clear
+  177  ls
+  178  pwd
+  179  clear
+  180  pwd
+  181  cd experiment
+  182  ls
+  183  cd ..
+  184  pwd
+  185  pwd .
+  186  ls .
+  187  ls ..
+  188  ls ...
+  189  clear
+  190  pwd
+  191  tail example.txt 
+  192  less example.txt
+  193  clear
+  194  wc example.txt
+  195  man wc
+  196  wc -l example.txt 
+  197  cp example.txt example_copy.txt
+  198  ls data
+  199  cp example.txt data/example_copy.txt
+  200  ls data
+  201  ls
+  202  cp experiment/notes.txt .
+  203  pwd
+  204  cp experiment/notes.txt ..
+  205  ls
+  206  cd ..
+  207  ls
+  208  rm notes.txt
+  209  cd unix_intro/
+  210  ls
+  211  ls experiment/
+  212  mv example_copy.txt experiment/
+  213  ls
+  214  ls experiment
+  215  pwd
+  216  clear
+  217  ls
+  218  mv notes.txt notes_old.txt
+  219  ls
+  220  nano
+  221  nano sample_names.txt
+  222  head sample_names.txt 
+  223  pwd
+  224  clear
+  225  ls
+  226  wc -l example.txt
+  227  ls
+  228  ls | wc -l
+  229  ls data/all_samples/
+  230  clear
+  231  ls data/all_samples/ | wc -l
+  232  pwd
+  233  nano data/all_samples/sample_99.txt
+  234  head data/all_samples/sample_99.txt
+  235  head data/all_samples/sample_97.txt
+  236  head data/all_samples/sample_97.tsv
+  237  clear
+  238  ls
+  239  pwd
+  240  clear
+  241  ls
+  242  rm notes_old.txt 
+  243  ls
+  244  ls > directory_comments.txt
+  245  head directory_comments.txt 
+  246  clear
+  247  ls experiment/ > directory_comments.txt 
+  248  ls
+  249  head directory_comments.txt 
+  250  clear
+  251  ls
+  252  mv directory_comments.txt directory_contents.txt 
+  253  pwd
+  254  ls >> directory_contents.txt 
+  255  less directory_contents.txt 
+  256  cd data/all_samples/
+  257  ls *.txt
+  258  clear
+  259  ls *.txt
+  260  ls *.t*
+  261  clear
+  262  ls *.txt | wc -l
+  263  ls *.t* | wc -l
+  264  mkdir fastq_files
+  265  ls fastq_files/
+  266  ls *.fq
+  267  mv *.fq fastq_files/
+  268  ls fastq_files/
+  269  ls | wc -l
+  270  history | tail
+  271  ls -r
+  272  mkdir txt_files
+  273  mv *.txt txt_files/
+  274  mkdir tsv_files
+  275  ls *.tsv
+  276  mv *.tsv tsv_files/
+  277  ls
+  278  clear
+  279  history less
+  280  less history
+  281  history | less
+  282  clear
+  283  history 2 | tail
+  284  clear
+  285  history clear | head
+  286  clear
+  287  cd fastq_files/
+  288  ls sample_1*.fq
+  289  ls sample_1?.fq
+  290  clear
+  291  pwd
+  292  cd ..
+  293  cd ..
+  294  cd ..
+  295  cd ..
+  296  ls
+  297  cd unix_
+  298  cd unix_intro/
+  299  ls
+  300  pwd
+  301  clear
+  302  cd six_commands/
+  303  head gene_annotations.tsv
+  304  head -n 1gene_annotations.tsv
+  305  head -n 1 gene_annotations.tsv
+  306  wc -l gene_annotations.tsv
+  307  man cut
+  308  cut -f 1 gene_annotations.tsv | head
+  309  cut -f 1,3 gene_annotations.tsv | head
+  310  cut -f 1-3 gene_annotations.tsv | head
+  311  cut -f 1-5 gene_annotations.tsv | head
+  312  cut -f 1-3 gene_annotations.tsv | head
+  313  clear
+  314  cut -f 1-3 gene_annotations.tsv | head
+  315  cut -f 1-3 example_gene_annotations.csv | head
+  316  cut -d , -f 1-3 example_gene_annotations.csv | head
+  317  cut -f 1,4 gene_annotations.tsv > IDs_and_annotations.tsv
+  318  wc -l IDs_and_annotations.tsv 
+  319  head colors.txt
+  320  grep blue colors.txt
+  321  grep re colors.txt
+  322  grep K09765 gene_annotations.tsv
+  323  grep K18979 gene_annotations.tsv
+  324  grep K18979 gene_annotations.tsv | cut -f 2
+  325  paste colors.txt colores.txt
+  326  head genes_seqs.tsv
+  327  head genes_and_seqs.tsv
+  328  clear
+  329  less -S genes_and_seqs.tsv
+  330  paste gene_annotations.tsv genes_and_seqs.tsv | cut -f 1-4,6- | head -n 2
+  331  paste gene_annotations.tsv genes_and_seqs.tsv | cut -f 1-4,6- | head -n 2
+  332  clear
+  333  my_var=ANGUS
+  334  echo $my_var
+  335  my_new_var="Tucson, Arizona, USA"
+  336  cd ~/Desktop/workshop/unix_intro/
+  337  mkdir for_loops
+  338  cd for_loops
+  339  pwd
+  340  cd ..
+  341  echo $my_var
+  342  for word in earth mars venus; do echo $word; done
+  343  for word in earth mars venus; do echo $word; echo $word >> planets.txt; done
+  344  head planets.txt 
+  345  cat planets.txt
+  346  history > history.txt
+  347  mv history.txt history_unix.txt
+  348  cat history_unix.txt 
+  349  clear
+  350  pwd
+  351  cd ..
+  352  mkdir git_lesson
+  353  cd git_lesson
+  354  git init
+  355  ls
+  356  pwd
+  357  ls
+  358  ls .git
+  359  ls -a .git
+  360  ls -a
+  361  rm -r .git
+  362  ls
+  363  ls -a
+  364  pwd
+  365  ls
+  366  cd ..
+  367  ls
+  368  git init
+  369  git confit --global user.name "Chet Maleszewski"
+  370  git config --global user.name "Chet Maleszewski"
+  371  git config --gloabl user.email "chetchetterson@gmail.com"
+  372  git config --global user.email "chetchetterson@gmail.com"
+  373  clear
+  374  git confit --list
+  375  git config --list
+  376  clear
+  377  git confit --list
+  378  git config --list
+  379  clear
+  380  git add --all
+  381  pwd
+  382  git commit-message "initialize the workshop directory as a repository"
+  383  git commit --message "initialize the workshop directory as a repository"
+  384  clear
+  385  cd git_lesson/
+  386  ls
+  387  touch practice.txt
+  388  git add practice.txt
+  389  git commit --message "commit practice.txt"
+  390  pwd
+  391  git status
+  392  echo "This is the practice file." >> practice.txt
+  393  cat practice.txt
+  394  git status
+  395  git add practice.txt 
+  396  git status
+  397  git commit "Added text to practice.txt"
+  398  git commit --message "Added text to practice.txt"
+  399  git diff
+  400  echo "Here is another line." >> practice.txt
+  401  git status
+  402  clear
+  403  git diff
+  404  git add practice.txt
+  405  git diff
+  406  git commit --message "Added another line to practice.txt"
+  407  git status
+  408  git log
+  409  nano practice.txt
+  410  nano practice.txt
+  411  cat practice.txt 
+  412  echo "This is the practice monkey" > practice.txt
+  413  echo "Here is another primate" >> practice.txt
+  414  touch another_one.txt
+  415  git status
+  416  git diff
+  417  git add *.txt
+  418  git status
+  419  git log
+  420  git commit "changed lines in practice.txt and added another line"
+  421  git log
+  422  git status
+  423  git commit --message "changed lines in practice.txt and added another line"
+  424  git status
+  425  clear
+  426  nano practice.txt
+  427  clear
+  428  git remote add origin https://github.com/ChetMaleszewski/workshop.git
+  429  git push -u origin master
+  430  git push -u origin master
+  431  git push -u origin master
+  432  git push -u origin master
+  433  git push -u origin master
+  434  git push -u origin master
+  435  git remote --verbose
+  436  clear
+  437  pwd
+  438  cd ..
+  439  git pull
+  440  nano /git_lesson/file.txt
+  441  cat /git_lesson/file.txt
+  442  ls /git_lesson/
+  443  pwd
+  444  cd git_lesson
+  445  ls
+  446  nano file.txt
+  447  git status
+  448  git add file.txt
+  449  git status
+  450  git commit --message "added file.txt and discussed my memory"
+  451  git push
+  452  clear
+  453  ls
+  454  cd ..
+  455  ls
+  456  cd unix_challenge/
+  457  ls
+  458  clear
+  459  cat country.txt
+  460  cp country.txt country_all.txt
+  461  ls *.cc.txt
+  462  for file in $(cat *.cc.txt); do cat $file >> country_all.txt; done
+  463  for file in $(ls *.cc.txt); do cat $file >> country_all.txt; done
+  464  less country_all.txt
+  465  clear
+  466  head country_all.txt
+  467  tail country_all.txt
+  468  grep -c 1997 country_all.txt
+  469  grep 1997 country_all.txt
+  470  grep 1997 country_all.txt >> country_1997.txt
+  471  head country_1997.txt
+  472  tail country_1997.txt
+  473  cp country.txt country_1997.txt
+  474  grep 1997 country_all.txt >> country_1997.txt
+  475  ls *.cc.txt | wc -l 
+  476  wc -l country_1997.txt
+  477  ls *.cc.txt | wc 
+  478  head country_all.txt
+  479  tail country_all.txt
+  480  ls *.cc.txt | wc
+  481  wc -l country_1997.txt
+  482  nano country_1997.txt
+  483  mv country_1997.txt country_1997_attempt1.txt
+  484  cut -f 2 country_all.txt | head
+  485  grep -c ?997 country_all.txt
+  486  grep -c 1997 country_all.txt
+  487  man grep
+  488  grep -w 1997 country_all.txt >> country_1997.txt
+  489  wc -l country_1997.txt
+  490  rm country_1997.txt
+  491  cp country.txt country_1997.txt
+  492  grep -w 1997 country_all.txt >> country_1997.txt
+  493  ls *.cc.txt | wc -l
+  494  wc -l country_1997.txt
+  495  git status
+  496  git add *.txt
+  497  git status
+  498  git commit
+  499  git commit --message "Added files from Unix challenge exercise"
+  500  git push
+  501  pwd
+  502  cd Desktop
+  503  cd workshop
+  504  ls
+  505  ls -a
+  506  git status
+  507  git pull
+  508  mkdir r_lesson
+  509  cp .gapminder_clean.csv r_lesson/gapminder.csv
+  510  ls r_lesson/
+  511  cd r_lesson/
+  512  ls
+  513  git status
+  514  cd ..
+  515  git status
+  516  cd r_lesson/
+  517  git status
+  518  cd ..
+  519  git add r_lesson/
+  520  git status
+  521  git commit -m "Create folder for R lesson on Sunday, added first text file we are building off of"
+  522  git push
+  523  clar
+  524  clear
+  525  history >> test.txt
